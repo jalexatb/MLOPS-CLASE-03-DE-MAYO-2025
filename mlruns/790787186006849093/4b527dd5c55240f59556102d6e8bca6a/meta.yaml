@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/MLOPS-CLASE-03-DE-MAYO-2025/MLOPS-CLASE-03-DE-MAYO-2025/mlruns/4b527dd5c55240f59556102d6e8bca6a/artifacts
+end_time: 1746306683077
+entry_point_name: ''
+experiment_id: '790787186006849093'
+lifecycle_stage: active
+run_id: 4b527dd5c55240f59556102d6e8bca6a
+run_name: funny-bee-553
+run_uuid: 4b527dd5c55240f59556102d6e8bca6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746306680184
+status: 3
+tags: []
+user_id: runner
